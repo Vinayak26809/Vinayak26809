@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinayak007
+- 👋 Hi, I’m @Vinayak
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Kotlin and Google IT support 
 - 💞️ I’m looking to collaborate with Google 
